@@ -1,6 +1,7 @@
 # 🎵 Order Summary Component
 
 Este projeto é um **componente de resumo de pedido**, criado com **HTML, CSS, Flexbox e Media Queries**. Ele é responsivo e estilizado para se adaptar a diferentes tamanhos de tela. 📱💻
+Link para acessar o projeto: https://luizf-devdias.github.io/resumo-de-pedido/
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5
