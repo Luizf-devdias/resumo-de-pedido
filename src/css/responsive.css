@@ -1,0 +1,17 @@
+@media (max-width: 400px) {
+    .container {
+        width: 320px;
+    }
+
+    .container .informacoes .texto {
+        width: 260px;
+    }
+
+    .container .informacoes .preco .plano span {
+        margin-right: 50px;
+    }
+
+    .container .informacoes .btn {
+        width: 280px;
+    }
+}
